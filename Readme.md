@@ -1,3 +1,3 @@
-<h1>WEB DEVELOPMENT PROJECTS WILL BE SHOWCASED HERE</h1>
+<h1>OUR WEB DEVELOPMENT PROJECTS</h1>
 
 Our club has made many good Web Development projects:
